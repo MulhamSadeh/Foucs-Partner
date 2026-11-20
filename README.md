@@ -29,4 +29,4 @@ We want the experience to feel simple and supportive. The platform should help s
 We're building Focus Partner together:
 
 - **Mulham Sadeh**
-- **Yousef Ghazali (يوسف غزالي)**
+- **Yousef Ghazali **
