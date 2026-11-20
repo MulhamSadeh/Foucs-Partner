@@ -1,30 +1,32 @@
 # Focus Partner
 
-**One place to plan your week, stay focused, and keep track of what still needs to be done.**
+**A focus platform built around students and the challenges they face every day.**
 
-We're working on Focus Partner because a to-do list alone doesn't help you stay focused, and a focus timer alone doesn't help you keep up with your goals. We want to bring weekly planning, distraction-free study sessions, and useful reminders together in one simple app.
+Focus Partner is a project we're working on to help students stay focused, organize their workload, and build better study habits.
 
-## Our goal
+We started with a simple question: why is it so difficult to stay consistent with studying, even when you know what you need to do?
 
-The idea is to make it easier for students to turn their plans into actual study time, without losing track of unfinished tasks.
+Students deal with distractions, unfinished tasks, pressure from deadlines, and the feeling that there's always too much to catch up on. Using separate tools for planning, focusing, and reminders can make things more complicated instead of helping.
 
-For the first version, we're focusing on:
+## What we're trying to solve
 
-- **Weekly goals:** Plan what you want to finish during the week, divide tasks between days, and add details when needed.
-- **Clear progress:** See which tasks are completed and what is still left for each day and the whole week.
-- **Deep focus sessions:** Start a focused study session connected to a task. Leaving the session before the timer ends means the focus session doesn't count as completed, similar to the idea behind Forest.
-- **Reminders that make sense:** Get reminded about unfinished work and return to the task you stopped working on, instead of starting over or forgetting where you left off.
-- **A simpler experience:** Make planning and focusing feel like one connected workflow, with an interface that's easy to understand and use every day.
+Our goal is to build a platform that brings these parts of student life together and makes it easier to:
 
-We want to encourage consistency, not punish people for missing a session. An interrupted focus session shouldn't erase the progress they've already made on their tasks.
+- **Stay focused** and reduce distractions during study sessions.
+- **Manage study responsibilities** without feeling overwhelmed.
+- **Turn plans into progress** and keep track of what's actually getting done.
+- **Stay consistent**, even when a day doesn't go as planned.
+- **Pick up where you left off** instead of losing track of unfinished work.
 
-## Where we are now
+We want the experience to feel simple and supportive. The platform should help students understand what to work on, focus on it, and move forward at their own pace.
 
-**Focus Partner is still in the planning and improvement stage.** We're shaping the first version around these goals and paying particular attention to usability. The points above describe what we want to build, not a list of features we're claiming are already finished.
+## Project status
+
+**Focus Partner is still under development.** We're currently exploring the problems students face, refining the user experience, and deciding how to bring the most useful ideas together. This README describes our direction, not a finished set of features.
 
 ## Team
 
-We're developing this project together:
+We're building Focus Partner together:
 
 - **Mulham Sadeh**
 - **Yousef Ghazali (يوسف غزالي)**
