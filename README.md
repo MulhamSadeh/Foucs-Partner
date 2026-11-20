@@ -14,7 +14,9 @@ Our goal is to build a platform that brings these parts of student life together
 
 - **Stay focused** and reduce distractions during study sessions.
 - **Manage study responsibilities** without feeling overwhelmed.
-- **Turn plans into progress** and keep track of what's actually getting done.
+- **Turn plans into progress** and keep track of what's actually getting done.https://docs.google.com/forms/d/e/1FAIpQLSfRZL3n7WU_H9HdUcD-L3JxviyQjZQYNJnNMW1oY51q5Zkawg/viewform?usp=sharing&ouid=108393978649704336746
+
+هي الدراسة يلي
 - **Stay consistent**, even when a day doesn't go as planned.
 - **Pick up where you left off** instead of losing track of unfinished work.
 
@@ -29,4 +31,4 @@ We want the experience to feel simple and supportive. The platform should help s
 We're building Focus Partner together:
 
 - **Mulham Sadeh**
-- **Yousef Ghazali **
+- **Yousef Ghazali**
